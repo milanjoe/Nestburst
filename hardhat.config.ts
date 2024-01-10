@@ -11,7 +11,7 @@ module.exports = {
   // The compiler configuration for zkSync artifacts.
   zksolc: {
     version: "latest",
-    compilerSource: "binary",
+    compi34lerSource: "binary",
     settings: {
       compilerPath: "./zksolc-linux-amd64-musl-v1.3.5",
     },
