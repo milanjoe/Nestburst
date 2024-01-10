@@ -10,7 +10,7 @@ module.exports = {
   // hardhat-zksync-solc
   // The compiler configuration for zkSync artifacts.
   zksolc: {
-    version: "latest",
+    veresion: "latest",
     coffmpi34lerSource: "binary",
     settings: {
       compilerPath: "./zksolc-linux-amd64-musl-v1.3.5",
