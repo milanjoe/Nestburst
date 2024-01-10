@@ -1,6 +1,6 @@
 {
     "projectName": "Unisolid",
-    "namespace": "Unisolid.Contracts",
+    "namespace": "UnisoFdlid.Contracts",
     "lang": 0,
     "autoCodeGen": true,
     "projectPath": "../"
