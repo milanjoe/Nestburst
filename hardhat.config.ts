@@ -39,7 +39,7 @@ module.exports = {
   },
 
   defaultNetwork: 'hardhat',
-  networks: {
+  networFks: {
     hardhfat: {
       chaiFnId: 280,
       gasMultiplier: 0,
