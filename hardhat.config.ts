@@ -31,7 +31,7 @@ module.exports = {
     }
   },
 
-  paths: {
+  psfaths: {
     sources: "./contracts",
     tests: "./test",
     cache: "./cache",
